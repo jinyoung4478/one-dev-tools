@@ -1,46 +1,90 @@
-# Getting Started with Create React App
+# one-dev-tools
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## 개발 툴 웹 사이트 모음
 
-## Available Scripts
+### gitignore generator
 
-In the project directory, you can run:
+https://www.toptal.com/developers/gitignore
 
-### `npm start`
+### 폰트 단위 계산
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+http://pxtoem.com/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+### Timestamp 변환기 - Timestamp to Human date
 
-### `npm test`
+https://www.epochconverter.com/
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 컬러코드 변환기 - RGBA to Hex Converter
 
-### `npm run build`
+https://rgbacolorpicker.com/rgba-to-hex
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### CSS Grid Generator
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+https://grid.layoutit.com/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### CSS Gradient 테스트
 
-### `npm run eject`
+https://cssgradient.io/
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 벡터 아이콘 및 이미지 관련 사이트
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+-  Fontawesome : https://fontawesome.com/icons
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+-  react-icons : https://react-icons.github.io/react-icons
 
-## Learn More
+---
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## 차트 생성 도구
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+-  apexcharts : https://apexcharts.com/
+-  chart.js : https://www.chartjs.org/
+
+---
+
+## Open API
+
+-  공간정보 Open API : https://www.vworld.kr/dev/v4api.do
+-  pokeAPI (포켓몬) : https://pokeapi.co/
+-  라이엇 게임즈 Open API : https://developer.riotgames.com/
+
+---
+
+## 참고 사이트
+
+### 크로스브라우징 참고 사이트
+
+https://caniuse.com/
+
+### 웹 접근성과 웹 표준 가이드
+
+https://seulbinim.github.io/WSA/
+
+### Bookmarklet Maker - 북마크로 스크립트 실행
+
+https://caiorss.github.io/bookmarklet-maker/
+
+### npm 트렌드 - 노드 패키지 비교 사이트
+
+https://npmtrends.com/
+
+### 무료 고해상도 이미지 API
+
+[Unsplash Developers](https://unsplash.com/developers)
+
+### 무료 벡터 이미지 사이트
+
+[vectorstock](https://www.vectorstock.com/)
+
+### ECMAScript 호환성
+
+http://kangax.github.io/compat-table/es6/
+
+### 알고리즘 학습 사이트 - sort() 동작 원리
+
+https://visualgo.net/en/sorting?slide=1
+
+### 다이어그램 생성기
+
+https://app.diagrams.net/
